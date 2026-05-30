@@ -1,8 +1,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-C          2 hrs 12 mins         ████████████████████████▓   98.85 %
-Markdown   1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
