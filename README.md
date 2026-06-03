@@ -1,7 +1,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+C             49 mins               ████████████▓░░░░░░░░░░░░   51.25 %
+Makefile      32 mins               ████████▒░░░░░░░░░░░░░░░░   33.36 %
+Objective-C   13 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.35 %
+Other         1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
+C++           0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
 ```
 
 <!--END_SECTION:waka-->
